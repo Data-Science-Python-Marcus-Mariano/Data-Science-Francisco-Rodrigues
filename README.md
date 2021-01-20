@@ -28,7 +28,7 @@ Tutorial about many algorithm of Machine Learning and Data Science.
 
 ## Notebooks
 
-Aula 02 - Ciência de Dados - Preparação e transformação dos dados em Python [here](Aula 02 - Ciência de Dados - Preparação e transformação dos dados em Python.ipynb)
+Aula 02 - Ciência de Dados - Preparação e transformação dos dados em Python [here](https://github.com/Data-Science-Python-Marcus-Mariano/Data-Science-Francisco-Rodrigues/blob/master/Aula%2002%20-%20Ci%C3%AAncia%20de%20Dados%20-%20Prepara%C3%A7%C3%A3o%20e%20transforma%C3%A7%C3%A3o%20dos%20dados%20em%20Python.ipynb)
 
 ---
 
